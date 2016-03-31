@@ -47,4 +47,4 @@ $(function(){
     var final = translate(sentence);
     $(".output").text(final);
   });
-});
+}); -->
